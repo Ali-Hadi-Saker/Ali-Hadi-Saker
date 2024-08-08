@@ -1,11 +1,9 @@
 ![MasterHead](https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif)
 <h1 align="center">Hi 👋, I'm Ali Saker</h1>
-<h3 align="center">A passionate frontend developer from Lebanon</h3>
+<h3 align="center">A passionate full stack developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-hadi-saker&label=Profile%20views&color=0e75b6&style=flat" alt="ali-hadi-saker" /> </p>
-
-- 🌱 I’m currently learning **laravel, react**
 
 - 📫 How to reach me **alihady530@gmail.com**
 
